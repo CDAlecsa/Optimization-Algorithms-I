@@ -24,3 +24,6 @@ Parameters :
 
 
 One can modify the inertial coefficients of these algorithms inside their numerical implementation.
+
+
+# Copyright © 2019 Cristian Daniel Alecsa
